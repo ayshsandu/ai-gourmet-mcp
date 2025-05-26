@@ -61,7 +61,6 @@ pip install -r requirements.txt
 
 ## 👟 Running the Server
 
-Execute the main Python script (e.g., if your file is named `server.py`):
-
 ```shell
-python3 mcp-server/src/server.py```
+python3 mcp-server/src/server.py
+```
