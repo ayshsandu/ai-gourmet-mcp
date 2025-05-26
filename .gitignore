@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets (if you use a .env file for environment variables)
+.env
+.venv
+
+# OS-specific
+.DS_Store
+Thumbs.db
